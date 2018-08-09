@@ -11,7 +11,7 @@ import pprint
 
 import shape
 import geometry
-import anamorphosis
+#import anamorphosis
 import perspective
 import cone_development
 
